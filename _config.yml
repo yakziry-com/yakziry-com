@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Yakziry Carbajal
 tagline:          'IT Customer Support'
 description:      'Tech-savvy problem solver dedicated to enhancing user experiences and operational efficiency'
-url:              https://github.yakziry.com
-#url:             https://yakziry.com
+#url:              https://github.yakziry.com
+url:             https://yakziry.com
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -36,4 +36,4 @@ sidebar_home_link:  false
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 
-#google_analytics: G-6J81WFKR8C
+google_analytics: G-6J81WFKR8C
