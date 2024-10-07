@@ -1,6 +1,7 @@
 <!-- Michael
 {% if jekyll.environment == 'production' and site.google_analytics %}
 -->
+{% if site.google_analytics != null %}
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
@@ -21,6 +22,4 @@
   ga('send', 'pageview');
   </script>
   -->
-<!-- Michael
 {% endif %}
--->
