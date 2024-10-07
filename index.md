@@ -23,7 +23,7 @@ As a Tier 2 Service Desk Technician at the Washington State Department of Agricu
 Analyze, troubleshoot, resolve, and develop standard operating procedures pertaining to computer and telecom-related issues. Perform ITIL Tier 1 or higher issue resolution for incoming help requests from end-users, including installing and upgrading software and hardware, network, and configuring systems and applications.
 
 ## Community Health of Central WA
-#### July 2017 – August 2022
+#### July 2017 – August 2021
 ### Application Specialist
 
 Work collaboratively between applications and IT to assist users of the healthcare systems, as well as all other organization wide applications. Assist other departments and teams in resolving technical issues. Plan, design, develop, implement, train, communicate, and maintain existing or new functionalities related to operations.
